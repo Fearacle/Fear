@@ -1,7 +1,7 @@
 package lab7.d;
 
 
-public class Test {
+public class test {
     public static void main(String[] args) {
 
         cow cow = new cow();
